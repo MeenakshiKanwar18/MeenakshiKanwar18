@@ -20,8 +20,9 @@ I'm a data science enthusiast passionate about turning raw data into actionable 
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/meenakshikanwar](#) *(update this link)*
-- Email: *(add your email)*
+- LinkedIn: [https://www.linkedin.com/in/meenakshi-9aa30a37b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgwRkUPLASuyLwddZzUrJUA%3D%3D
+- ]
+- Email: *(shekhawatmeenakshii18@gmail.com)*
 
 ---
 *Open to data analyst and data science roles. Feel free to reach out!*
